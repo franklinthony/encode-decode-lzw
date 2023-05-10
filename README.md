@@ -11,7 +11,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/franklinthony/encode-decode-lzw">
   
   <a href="https://github.com/franklinthony/encode-decode-lzw/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklinthony/encode-decode-lzwg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklinthony/encode-decode-lzw">
   </a>
 
   <a href="https://github.com/franklinthony/encode-decode-lzw/issues">
