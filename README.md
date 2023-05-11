@@ -28,7 +28,7 @@
 
 ## 💻 Projeto
 
-Desenvolvimento de um codificador e decodificador de propósito geral, criados como projeto da disciplina Introdução à Teoria da Informação.
+Foi desenvolvido como projeto da disciplina Introdução à Teoria da Informação um codificador e decodificador de propósito geral baseados no algoritmo LZW. 
 
 ## 🤔 Como contribuir
 
